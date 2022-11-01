@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Amazing-Grace. Passionate about drawing insights from data.
+
+⚡ Fun fact: I consider myself to be a data detective. 
 <!--
 **techie-grace/techie-grace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
